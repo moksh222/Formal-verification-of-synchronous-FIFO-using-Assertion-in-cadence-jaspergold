@@ -1,0 +1,2 @@
+# Formal-verification-of-synchronous-FIFO-using-Assertion-in-cadence-jaspergold
+This project focuses on the formal verification of a synchronous FIFO using Cadence JasperGold. It involves developing a comprehensive testbench with SVA to verify data integrity, boundary conditions, and flow control. The goal is to achieve 100% formal proof convergence, ensuring the design is bug-free under all possible input scenarios.
